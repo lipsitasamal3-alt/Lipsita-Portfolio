@@ -1,0 +1,5 @@
+RESUME PLACEHOLDER
+
+Please replace this file with your actual resume PDF named "resume.pdf" in the /public folder.
+
+Your resume will be downloadable via the "Download Resume" button in the navbar and hero section.
