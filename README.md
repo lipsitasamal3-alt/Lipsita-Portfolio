@@ -1,6 +1,11 @@
-# Lipsita Samal — Developer Portfolio
+# Lipsita Samal 
 
-A world-class, premium, recruiter-focused personal portfolio website.
+This portfolio showcases my featured projects including:
+
+- 🎓 CampusOS
+- 📈 AI Trading Bot
+
+A modern, responsive personal portfolio showcasing my software development projects, technical skills, and experience.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=vercel)](https://lipsita-portfolio.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js)](https://nextjs.org)
@@ -135,6 +140,60 @@ export const EMAILJS_CONFIG = {
 };
 ```
 
+## 🏗️ Architecture
+
+Single source of truth
+
+↓
+
+Reusable Components
+
+↓
+
+Hooks
+
+↓
+
+Sections
+
+↓
+
+Responsive UI
+
+↓
+
+API Integrations
+
+
+
+## 🎯 Why I Built This
+
+I wanted a portfolio that demonstrates not only my projects but also my frontend development skills, attention to UI/UX, accessibility, and modern web development practices.
+
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+
+## 🔮 Future Improvements
+
+- More featured projects
+- Blog section
+- Project case studies
+- Performance improvements
+
+✅ Keyboard Accessible
+
+✅ Screen Reader Friendly
+
+✅ Lighthouse Optimized
+
+✅ Responsive
+
+✅ SEO Friendly
+
+
 ## 🌐 Deployment (Vercel)
 
 1. Push to GitHub
@@ -143,4 +202,4 @@ export const EMAILJS_CONFIG = {
 
 ---
 
-Made with ❤️ by [Lipsita Samal](https://lipsita-portfolio.vercel.app)
+Designed and Developed by Lipsita Samal(https://lipsita-portfolio.vercel.app)
